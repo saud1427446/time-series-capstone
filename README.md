@@ -1,7 +1,8 @@
 # Time Series Forecasting Capstone
 
 **Trainee Name:** Saud Ibrahim Aldueb
-**Program:** SDAIA Academy - Time Series Forecasting AI Systems
+**Program:** SDAIA Academy - Time Series Forecasting AI Systems (Cohort: 2026)
+**Course Repository:** [SDAIA Academy GitHub](https://github.com/MohammadYusif/time-series-forecasting-ai-systems)
 
 ## Project Overview
 This repository contains the final capstone project for the Time Series Forecasting AI Systems course. The goal is to take a raw time series, perform diagnostics, fit classical and ML models, and evaluate them using a walk-forward backtesting framework with probabilistic forecasting.
